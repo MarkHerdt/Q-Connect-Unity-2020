@@ -1,0 +1,2 @@
+-Robotparts inside the "Robot" prefab have to be chronologically sorted depending on their respective tag number.
+-So the Robotpart with tag "1" has to be the first child and the Robotpart with the highest tag number has to be last last child, etc. 

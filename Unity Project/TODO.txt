@@ -1,0 +1,8 @@
+Options Menu
+-Movement mit Tasta im UI
+-Schwierigkeitsgrade
+
+Main Screen / Death Screen
+-Tastatureingaben unterbinden
+
+-Bei restart sofort in neues spiel

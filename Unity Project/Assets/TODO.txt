@@ -1,0 +1,29 @@
+-BALANCING/BUGFIXES-
+-Balance speed and spawn rate of robots
+-Always set index of menus to 1 after reopening them
+-Some soundobjects are not destroyed immediately
+-Expose "SoundController.audioTravelDistance" in the inspector through the "GameController"
+-Random tips inside bubble
+
+-PROGRAMMING-
+-Eventbubble
+-Redo the whole menu (Place all gamestates in one script) 
+-Add an options menu
+ -Volume
+ -Difficulty
+-Add score currency
+ -More robot skins
+ -More level designs
+ -Temporary buffs (extra life, more score points, etc.)
+-Score bonus after set amount of repaired robots in a row
+-Scrollable menu
+-Mobile version
+-Tutorial (in options menu)
+-Change scale and position of robots when the screen size changes, not just on spawn
+-Maybe boss robots
+-Destroy robots when they are out of screen instead of on collision exit with border
+
+-ART-
+-Redo Robot Parts selected sprite without nthe actual Robot Part inside it
+-New sprite for Top/Bottom border
+-New start screen
